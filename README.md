@@ -28,7 +28,7 @@
 | GraphSAGE (NeighborSampler) | GraphSAGE的变种，同样采用邻居采样策略，针对大规模图数据进行优化。 | 在由特定子图上操作，通过聚合局部邻域信息以降低计算复杂度，保留模型对网络结构特征的捕捉能力。 | 78.10    |
 | GearSage                    | 新型图神经网络模型，是对GraphSAGE的扩展，更有效地处理带有边属性和时间特征的图数据。 | 集成边属性和时间特征，通过时间编码器捕捉动态性，提供更丰富的信息以精准捕捉和理解网络中的复杂交互模式。 | 80.75    |
 
-
+[![Stargazers repo roster for @Zhu-Shatong/DynamicSocialNetworkFraudDetection](https://reporoster.com/stars/dark/Zhu-Shatong/DynamicSocialNetworkFraudDetection)](https://github.com/Zhu-Shatong/DynamicSocialNetworkFraudDetection/stargazers)
 
 ## 🌟 支持我们！
 
